@@ -4,6 +4,7 @@
 * Code for our INTERSPEECH 2022 paper submission titled "Towards Automated Counselling Decision-Making: Remarks on Therapist Action Forecasting on the AnnoMI Dataset"
 
 ## Environment Setup
+* Note that $REPO is the folder of the repository (i.e. the folder where you see this README), after `git clone`.
 
 ```sh
 cd $REPO
