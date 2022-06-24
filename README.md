@@ -1,7 +1,7 @@
-# Towards Automated Counselling Decision-Making: Remarks on Therapist Action Forecasting on the AnnoMI Dataset (INTERSPEECH 2022 Submission)
+# Towards Automated Counselling Decision-Making: Remarks on Therapist Action Forecasting on the AnnoMI Dataset (INTERSPEECH 2022)
 
 ## Introduction
-* Code for our INTERSPEECH 2022 paper submission titled "Towards Automated Counselling Decision-Making: Remarks on Therapist Action Forecasting on the AnnoMI Dataset"
+* Code for our INTERSPEECH 2022 paper titled "Towards Automated Counselling Decision-Making: Remarks on Therapist Action Forecasting on the AnnoMI Dataset"
 
 ## Environment Setup
 * Note that $REPO is the folder of the repository (i.e. the folder where you see this README), after `git clone`.
